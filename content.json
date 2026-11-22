@@ -1,0 +1,305 @@
+{
+  "contact": {
+    "email": "heeju1028@naver.com"
+  },
+  "series": [
+    {
+      "name": "첫 번째 연작",
+      "works": [
+        {
+          "title": "밤의 황무지",
+          "image": "img/night.jpg",
+          "alt": "짙은 청록과 남색의 밤 들판 그림",
+          "medium": "Mixed media on canvas, 2024",
+          "size": "117 × 91 cm",
+          "hero": true,
+          "en": "The field, after the light\nhas gone.",
+          "kr": "빛이 사라진 뒤에도 남은 들판의 푸른 기척"
+        },
+        {
+          "title": "비밀의 화원",
+          "image": "img/garden.jpg",
+          "alt": "흰 꽃과 주황 양귀비가 핀 푸른 정원 그림",
+          "medium": "Mixed media on canvas, 2024",
+          "size": "117 × 91 cm",
+          "hero": true,
+          "en": "White blooms in\na blue garden.",
+          "kr": "푸른 정원, 흰 꽃 사이로 번지는 주황빛"
+        }
+      ]
+    },
+    {
+      "name": "두 번째 연작",
+      "works": [
+        {
+          "title": "정원으로 가는 길_1",
+          "image": "img/leaves.jpg",
+          "alt": "왼쪽 위에 잎이 드리운 안개 낀 청록 풀밭 그림",
+          "medium": "Oil pastel on canvas, 2026",
+          "size": "116.7 × 91.0 cm",
+          "hero": true,
+          "en": "Leaves leaning\ninto the mist.",
+          "kr": "안개 낀 풀밭 위로 드리운 잎"
+        },
+        {
+          "title": "정원으로 가는 길_2",
+          "image": "img/hedge.jpg",
+          "alt": "청록빛 덤불 벽 사이로 밝은 길이 난 그림",
+          "medium": "Oil pastel on canvas, 2026",
+          "size": "116.7 × 91.0 cm",
+          "hero": true,
+          "en": "A bright path\nbetween the hedges.",
+          "kr": "청록빛 덤불 사이로 열린 밝은 길"
+        },
+        {
+          "title": "정원으로 가는 길_3",
+          "image": "img/path3.jpg",
+          "alt": "청록빛 덤불 기둥들 사이로 밝은 연둣빛 길이 앞으로 넓어지는 그림",
+          "medium": "Oil pastel on canvas, 2026",
+          "size": "116.7 × 91.0 cm",
+          "hero": true,
+          "en": "The path opens\ninto the light.",
+          "kr": "덤불 사이로 길게 열린 밝은 길"
+        }
+      ]
+    },
+    {
+      "name": "세 번째 연작",
+      "works": [
+        {
+          "title": "여름_복숭아",
+          "image": "img/peach.jpg",
+          "alt": "짙은 초록 잎 사이에 매달린 붉은 복숭아 그림",
+          "medium": "Oil pastel on canvas, 2025",
+          "size": "60.6 × 50.5 cm",
+          "hero": true,
+          "en": "Late summer,\nheavy on the branch.",
+          "kr": "짙은 잎 사이에 무르익은 복숭아"
+        },
+        {
+          "title": "여름_능소화",
+          "image": "img/trumpet.jpg",
+          "alt": "청록빛 잎 사이로 핀 분홍 능소화 그림",
+          "medium": "Oil pastel on canvas, 2025",
+          "size": "60.6 × 50.5 cm",
+          "hero": true,
+          "en": "Trumpet vines\nagainst the dark.",
+          "kr": "어두운 잎 사이로 피어난 능소화"
+        }
+      ]
+    },
+    {
+      "name": "네 번째 연작",
+      "works": [
+        {
+          "title": "Ballet 1",
+          "image": "img/ballet1.jpg",
+          "alt": "샹들리에와 큰 창이 있는 연습실에서 매트 위에 앉아 몸을 푸는 검은 말과 흰 양",
+          "medium": "",
+          "size": "",
+          "hero": false,
+          "en": "Morning stretch\nby the tall windows.",
+          "kr": "높은 창 아래, 몸을 푸는 두 친구"
+        },
+        {
+          "title": "Ballet 2",
+          "image": "img/ballet2.jpg",
+          "alt": "빨간 버섯과 풀숲 사이에서 춤추는 검은 말과 흰 양",
+          "medium": "",
+          "size": "",
+          "hero": false,
+          "en": "A dance among\nthe red mushrooms.",
+          "kr": "붉은 버섯 숲에서 춤추는 두 친구"
+        },
+        {
+          "title": "Dancing in the Moonlight",
+          "image": "img/ballet3.jpg",
+          "alt": "커다란 보름달과 웃는 별들 사이에서 발레를 추는 검은 말과 흰 양",
+          "medium": "",
+          "size": "",
+          "hero": false,
+          "en": "Dancing in\nthe moonlight.",
+          "kr": "보름달과 별 사이에서 춤추는 밤"
+        }
+      ]
+    }
+  ],
+  "drawings": [
+    {
+      "title": "레몬 한 잔",
+      "image": "draw/lemon.jpg",
+      "alt": "레몬 조각과 허브가 든 노란 음료를 색연필로 그린 그림",
+      "medium": "",
+      "size": "",
+      "hero": false,
+      "en": "",
+      "kr": ""
+    },
+    {
+      "title": "딸기 파르페",
+      "image": "draw/strawberry.jpg",
+      "alt": "딸기와 크림이 층층이 담긴 유리잔을 색연필로 그린 그림",
+      "medium": "",
+      "size": "",
+      "hero": false,
+      "en": "",
+      "kr": ""
+    },
+    {
+      "title": "버터 토스트",
+      "image": "draw/toast.jpg",
+      "alt": "버터 한 조각을 올린 토스트와 블루베리를 그린 그림",
+      "medium": "",
+      "size": "",
+      "hero": false,
+      "en": "",
+      "kr": ""
+    },
+    {
+      "title": "도넛 둘",
+      "image": "draw/donut.jpg",
+      "alt": "스프링클 도넛과 초록 글레이즈 도넛을 그린 그림",
+      "medium": "",
+      "size": "",
+      "hero": false,
+      "en": "",
+      "kr": ""
+    },
+    {
+      "title": "달걀 토스트",
+      "image": "draw/egg.jpg",
+      "alt": "식빵과 달걀 프라이를 올린 접시를 위에서 그린 그림",
+      "medium": "",
+      "size": "",
+      "hero": false,
+      "en": "",
+      "kr": ""
+    },
+    {
+      "title": "크루아상",
+      "image": "draw/croissant.jpg",
+      "alt": "접시 위 크루아상과 빵 조각을 색연필로 그린 그림",
+      "medium": "",
+      "size": "",
+      "hero": false,
+      "en": "",
+      "kr": ""
+    },
+    {
+      "title": "Le matin où je ne veux rien faire",
+      "image": "draw/matin.jpg",
+      "alt": "창가 안락의자에 기대어 앉아 발을 올린 여성과 프랑스어 손글씨가 있는 푸른 그림",
+      "medium": "",
+      "size": "",
+      "hero": false,
+      "en": "",
+      "kr": ""
+    },
+    {
+      "title": "Pendant la journée avec du café",
+      "image": "draw/cafe.jpg",
+      "alt": "아이스커피 두 잔과 쌓인 컵, 뚜껑, 물감 튜브를 그린 드로잉과 프랑스어 손글씨",
+      "medium": "",
+      "size": "",
+      "hero": false,
+      "en": "",
+      "kr": ""
+    },
+    {
+      "title": "밤의 창가 꽃",
+      "image": "draw/fleurs.jpg",
+      "alt": "짙은 남보라 배경에 창문 두 개와 여러 색의 꽃이 가득 핀 그림",
+      "medium": "",
+      "size": "",
+      "hero": true,
+      "en": "Flowers blooming\nby the night window.",
+      "kr": "어두운 창가를 가득 메운 꽃"
+    }
+  ],
+  "cv": {
+    "education": [
+      {
+        "year": "2007.03 – 2010.02",
+        "text": "인천예술고등학교 디자인과 졸업"
+      },
+      {
+        "year": "2012.09 – 2013.06",
+        "text": "Ecole des Beaux-arts de Rennes 미술과 중퇴"
+      },
+      {
+        "year": "2014.03 – 2015.12",
+        "text": "대한상공회의소 국가평생진흥원 가구디자인과 전문학사 졸업"
+      },
+      {
+        "year": "2020.03 – 2022.02",
+        "text": "방송통신대학교 프랑스언어문화학과 학사 졸업"
+      },
+      {
+        "year": "2022.03 – 2024.02",
+        "text": "세종사이버대학교 상담심리학과 · 예술치료학과(복수전공) 학사 졸업"
+      }
+    ],
+    "experience": [
+      {
+        "year": "2017.05 – 2019.05",
+        "text": "생각나무미술학원 전임강사"
+      },
+      {
+        "year": "2019.08 – 2019.10",
+        "text": "청라 필아트미술학원 파트강사"
+      },
+      {
+        "year": "2020.09 –",
+        "text": "청라 숲 미술학원 전임강사"
+      },
+      {
+        "year": "2021.01 –",
+        "text": "KAT평생교육협회 (미술분과) 연구의원"
+      },
+      {
+        "year": "2023.11 –",
+        "text": "KAT평생교육협회 (디지털드로잉) 전임강사"
+      },
+      {
+        "year": "2023.10",
+        "text": "MBN 웰니스페스타 컬러링아트테라피 강사"
+      },
+      {
+        "year": "2024.10 – 2024.11",
+        "text": "인천광역시 서구 문화원 2024 서구기록사업 〈동네친구 : ‘서’적인 매거진〉 보조강사"
+      }
+    ],
+    "exhibitions": [
+      {
+        "year": "2023.12",
+        "text": "경기도미술교육협의회 우수지도자 단체 전시 — 과천청사 거리미술관"
+      },
+      {
+        "year": "2024.04",
+        "text": "경기도미술교육협의회 우수지도자 단체 전시 — 과천시민회관 갤러리 아라미술관"
+      },
+      {
+        "year": "2024.09",
+        "text": "경기도미술교육협의회 우수지도자 단체 전시 — 과천청사 거리미술관"
+      },
+      {
+        "year": "2025.09",
+        "text": "경기도미술교육협의회 우수지도자 단체 전시 — 과천청사 거리미술관"
+      },
+      {
+        "year": "2026.03",
+        "text": "제2회 미래꿈기획 초대작가 6인전 — 송도 G타워 G갤러리"
+      },
+      {
+        "year": "2026.09",
+        "text": "경기도미술교육협의회 우수지도자 단체 전시 — 과천청사 거리미술관"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2023",
+        "text": "미래꿈그리기 대회 우수지도자상"
+      }
+    ]
+  }
+}
