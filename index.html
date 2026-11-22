@@ -5,19 +5,22 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>NOH HEEJU — 회화</title>
 <meta name="description" content="노희주의 회화 작업. 정원과 빛, 안개 낀 풍경을 그립니다.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..800&family=Cormorant+Garamond:ital,wght@1,400;1,500&family=Noto+Serif+KR:wght@300;400;500&family=Noto+Sans+KR:wght@400;500&display=swap" rel="stylesheet">
 <style>
+@font-face{font-family:"NH Display";src:url(fonts/inter-600.woff) format("woff");font-weight:500 649;font-display:swap}
+@font-face{font-family:"NH Display";src:url(fonts/inter-700.woff) format("woff");font-weight:650 900;font-display:swap}
+@font-face{font-family:"NH Sans";src:url(fonts/noto-sans-400.woff) format("woff");font-weight:100 449;font-display:swap}
+@font-face{font-family:"NH Sans";src:url(fonts/noto-sans-500.woff) format("woff");font-weight:450 900;font-display:swap}
+@font-face{font-family:"NH Serif";src:url(fonts/noto-serif-300.woff) format("woff");font-weight:100 349;font-display:swap}
+@font-face{font-family:"NH Serif";src:url(fonts/noto-serif-400.woff) format("woff");font-weight:350 900;font-display:swap}
 html,body{background:#F3F0EA;color:#34322F;margin:0}
 :root{
   --wall:#F3F0EA; --wall-2:#ECE7DF; --ink:#34322F; --ink-2:#6A6660; --line:rgba(23,22,20,.14);
   --night:#1C2729; --night-ink:#E9ECE8; --teal:#2F6B6A;
   --ease:cubic-bezier(.16,1,.3,1);
-  --display:"Archivo","Noto Sans KR",system-ui,sans-serif;
-  --serif:"Cormorant Garamond","Noto Serif KR",Georgia,serif;
-  --kr-serif:"Noto Serif KR","Noto Serif CJK KR",serif;
-  --sans:"Noto Sans KR","Noto Sans CJK KR",system-ui,sans-serif;
+  --display:"NH Display",system-ui,sans-serif;
+  --serif:"NH Serif",Georgia,serif;
+  --kr-serif:"NH Serif",serif;
+  --sans:"NH Sans",system-ui,sans-serif;
   --pad:clamp(20px,4vw,64px);
 }
 *{box-sizing:border-box}
@@ -360,7 +363,7 @@ dialog::backdrop{background:rgba(243,240,234,.96)}
   <button type="button" id="adminOff" aria-label="관리자 버튼 숨기기">×</button>
 </div>
 <footer>
-  <span>© 2026 NOH HEEJU</span>
+  <span>© 2026 NOH HEEJU · 이 사이트는 방문자의 개인정보를 수집하지 않습니다</span>
   <span class="italic" style="font-size:14px">Paintings</span>
 </footer>
 
